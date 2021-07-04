@@ -1,1 +1,1 @@
-# Dicegame
+https://moysser.github.io/Dicegame/
